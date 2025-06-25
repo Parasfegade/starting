@@ -1,1 +1,1 @@
-# mumbai-stock-alert
+# stock-alert
